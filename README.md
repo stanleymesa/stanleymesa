@@ -1,5 +1,7 @@
 ### Hi I'm Stanley
 
+Interested in Mobile Development especially Android.
+
 <!--
 **stanleymesa/stanleymesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
